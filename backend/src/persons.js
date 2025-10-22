@@ -1,22 +1,21 @@
 const persons = [
-    
     {
-    name: "Peter Parker",
-    age: 23,
-    genero: "Aracnídeo"
-}, 
+    name: "Luiz Henrique",
+    age: 17,
+    cpf: 12345678900
+    },
 
-{
-    name: "Virginia",
-    age: 10,
-    genero: "Femenino"
-},
+    {
+        name: "Pedro Henrique",
+        age: 17,
+        cpf: 9876543211
+    },
 
-{
-    name: "Travis Scott",
-    age: 70,
-    genero: "Masculino"
-}
+    {
+        name: "Melyssa Pereira",
+        age: 16,
+        cpf: 45612378920
+    }
 ]
 
-export { persons}
+export {persons}
